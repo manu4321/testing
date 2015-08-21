@@ -6,7 +6,7 @@ CREATE OR REPLACE PROCEDURE Addservinv
 	pl_parts servinv.partscost%TYPE,
 	pl_labor servinv.laborcost%TYPE,
 	pl_tax servinv.tax%TYPE
-	pl_
+	
 	
 ) AS
 
